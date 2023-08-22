@@ -1,0 +1,2 @@
+# Sistema Gerenciador de Marketing para Empresas
+Bem-vindo ao Sistema Gerenciador de Marketing para Empresas! Este projeto é um sistema integrado de gestão de vendas e estoque desenvolvido em C# como parte da disciplina de programação orientada a objetos. O objetivo deste projeto é simular situações reais de comércio, permitindo a aplicação prática de conceitos como relacionamentos, herança, polimorfismo e encapsulamento
